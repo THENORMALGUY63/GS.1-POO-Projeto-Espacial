@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Integrantes
 * Giovanni de Lela Anjos Costa - RM: 563066
-* Gabriel Nakamura - RM: 562221
+* Gabriel Hiro Nakamura - RM: 562221
 * Gisleine Muñoz Ticona - RM: 563804
 
 ## 📖 Sobre o Projeto
