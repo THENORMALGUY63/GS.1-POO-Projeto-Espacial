@@ -26,6 +26,6 @@ Este projeto é um sistema de monitoramento espacial desenvolvido em Java puro. 
    `java SistemaMonitoramento`
 
 ## 📸 Demonstração
-![Menu e Sensores](./print_menu.png)
-![Controle de Propulsão](./print_propulsao.png)
-![Segurança de Dados](./print_dados.png)
+![Menu e Sensores.](./print_menu.png)
+![Controle de Propulsão.](./print_propulsao.png)
+![Segurança de Dados.](./print_dados.png)
